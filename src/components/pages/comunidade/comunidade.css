@@ -1,0 +1,225 @@
+body {
+  margin-top: 90px;
+  position: relative;
+  background: #2e2d2d;
+}
+
+.post1 {
+  box-sizing: content-box;
+  width: 1000px;
+  height: 287px;
+  left: 600px;
+  margin-top: 48px;
+  border: 15px solid transparent;
+  border-radius: 10px;
+  background-color: rgba(51, 174, 174, 0.8);
+}
+
+.foto_usu {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: 3px;
+  margin-top: -15px;
+  margin-left: -190px;
+  cursor: pointer;
+}
+
+.user_post {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 80px;
+  margin-top: 10px;
+
+  font-family: 'Economica', Times, serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 33px;
+  line-height: 41px;
+  color: #000000;
+  cursor: pointer;
+}
+
+.atl {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  left: 837px;
+  top: 13.7px;
+}
+
+.alt_text {
+  position: absolute;
+  left: 850px;
+  top: -2px;
+  width: 140px;
+
+  font-family: 'Economica';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  text-align: right;
+  color: #000000;
+}
+
+.cartaz {
+  position: absolute;
+  width: 120px;
+  height: 180px;
+  left: 70px;
+  top: 70px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.status {
+  width: 300px;
+  height: 40px;
+  top: 70px;
+  left: 225px;
+
+  background: #6fc5c5;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+}
+
+.view {
+  position: absolute;
+  width: 26px;
+  height: 18px;
+  left: 12px;
+  top: 12px;
+}
+
+.view_txt {
+  position: absolute;
+  left: 45px;
+  top: -15px;
+  width: 515px;
+
+  font-family: 'Economica';
+  font-style: normal;
+  text-decoration: bold;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+.avaliacao {
+  position: absolute;
+  width: 600px;
+  height: 100px;
+  top: 130px;
+  left: 225px;
+
+  background: #6fc5c5;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.txt_avaliacao {
+  position: absolute;
+  left: 12px;
+  top: -17px;
+  width: 580px;
+
+  font-family: 'Economica';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+.coment {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  left: 950px;
+  top: 255px;
+}
+
+.like {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  left: 905px;
+  top: 255px;
+}
+
+.post2 {
+  box-sizing: content-box;
+  position: absolute;
+  width: 1000px;
+  height: 287px;
+  left: 600px;
+  margin-top: 400px;
+  border: 15px solid transparent;
+  border-radius: 10px;
+  background-color: rgba(51, 174, 174, 0.8);
+}
+
+.resposta {
+  box-sizing: content-box;
+  position: absolute;
+  width: 500px;
+  height: 60px;
+  left: 485px;
+  margin-top: 275px;
+  border: 15px solid transparent;
+  border-radius: 10px;
+  background-color: rgba(51, 174, 174, 0.8);
+}
+
+.usu_coment {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: -5px;
+  margin-top: -5px;
+}
+
+.user_coment {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 45px;
+  margin-top: -7px;
+
+  font-family: 'Economica', Times, serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 22px;
+  line-height: 41px;
+  color: #000000;
+}
+
+.respt_txt {
+  position: absolute;
+  left: 80px;
+  top: 17px;
+  width: 580px;
+
+  font-family: 'Economica';
+  font-style: normal;
+  font-weight: 80;
+  font-size: 20px;
+  line-height: 30px;
+  color: #000000;
+}
+
+.post3 {
+  box-sizing: content-box;
+  position: absolute;
+  width: 1000px;
+  height: 287px;
+  left: 600px;
+  margin-top: 850px;
+  border: 15px solid transparent;
+  border-radius: 10px;
+  background-color: rgba(51, 174, 174, 0.8);
+}

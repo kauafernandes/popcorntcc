@@ -1,0 +1,155 @@
+body {
+    position: relative;
+    background: #2e2d2d;
+}
+
+.annewith {
+    width: 200px;
+    height: 300px;
+    top: 10%;
+    left: 20%;
+}
+  
+.icon_resenha {
+    margin-left: 608px;
+    margin-top: 18px;
+    width: 55px;
+    height: 55px;
+}
+
+.resenha {
+    position: absolute;
+    width: absolute; 
+    height: 57px; 
+    left: 668px; 
+    top: 230px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 57px;
+    color: #eeeeee;
+}
+
+.areazul {
+    position: absolute;
+    width: 980px;
+    height: 375px;
+    left: 600px;
+    top: 310px;
+    background: rgba(51, 174, 174, 0.8);
+    border-radius: 10px;
+}
+
+.fcatalogo {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.nomefilme {
+    position: absolute;
+    width: relative;
+    height: 55px;
+    left: 280px;
+    top: 18px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 55px;
+    color: #212121;
+}
+
+.estrelas {
+    position: absolute;
+    left: 0px;
+    top: 80px;
+}
+.estrela1 {
+    margin-left: 283px;
+    margin-top: 0px;
+}
+
+textarea {
+    position: absolute;
+    width: 580px;
+    height: 158px;
+    left: 283px;
+    top: 120px;
+    resize: none;
+    background: #99d6d6;
+    border-radius: 10px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 29px;
+    padding: 7px;
+    color: #000000;
+}
+
+.cancelar {
+    color: #000000;
+    background-color: #007b7b;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 25px;
+    font-style: bold;
+    position: absolute;
+    align-items: center;
+    justify-content: left;
+    left: 45%;
+    width: 104px;
+    height: 38px;
+    top: 78%;
+    border-radius: 10px;
+    font-family: 'Economica';
+    cursor: pointer;
+    border: none;
+}
+
+.cancelar:hover {
+    background-color: #007b7b;
+}
+
+.cancelar:active {
+    background-color: #007b7b;
+    color: #000000;
+    box-shadow: 2px 2px 2px #007b7b;
+}
+
+.cancelar:focus {
+    background: #006262;
+}
+
+.salvar {
+    color: #000000;
+    background-color: #007b7b;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 25px;
+    font-style: bold;
+    position: absolute;
+    align-items: center;
+    justify-content: left;
+    left: 58%;
+    width: 104px;
+    height: 38px;
+    top: 78%;
+    border-radius: 10px;
+    font-family: 'Economica';
+    cursor: pointer;
+    border: none;
+}
+
+.salvar:hover {
+    background-color: #007b7b;
+}
+
+.salvar:active {
+    background-color: #007b7b;
+    color: #000000;
+    box-shadow: 2px 2px 2px #007b7b;
+}
+
+.salvar:focus {
+    background: #006262;
+}

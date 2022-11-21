@@ -1,0 +1,310 @@
+.ranking{
+    position: absolute;
+    width: absolute;
+    height: 57px;
+    margin-left: 950px;
+    margin-top: -210px;
+    font-weight: 1000;
+    font-size: 48px;
+    color: #eeeeee;
+  }
+  
+  .interrogacao {
+    position: absolute;
+    font-size: 28px;
+    color: #eeeeee;
+    margin-top: -203px;
+    margin-left: 1300px;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    background: #009a9a;
+    cursor: pointer;
+  }
+  
+  .primeirolugar{
+    position: absolute;
+    width: 200px;
+    height: 205px;
+    margin-left: 925px;
+    margin-top: 36px;
+    background: #009a9a;
+    font-size: 90px;
+    color: #000000;
+    font-family: 'calibri';
+    text-align: center;
+    border-radius: 5px 5px 0px 0px;
+  }
+  
+  .segundolugar{
+    position: absolute;
+    width: 200px;
+    height: 132px;
+    margin-left: 725px;
+    margin-top: 109px;
+    background: #009a9a;
+    font-size: 70px;
+    color: #000000;
+    font-family: 'calibri';
+    text-align: center;
+    border-radius: 5px 0px 0px 5px;
+  }
+  
+  .terceirolugar{
+    position: absolute;
+    width: 200px;
+    height: 80px;
+    margin-left: 1125px;
+    margin-top: 161px;
+    background: #009a9a;
+    font-size: 40px;
+    color: #000000;
+    font-size: 50px;
+    color: #000000;
+    font-family: 'calibri';
+    text-align: center;
+    border-radius: 0px 5px 5px 0px;
+  }
+  
+  .icon1{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 970px;
+    margin-top: -110px;
+  }
+  
+  .nome_user1{
+    margin-top: 480px;
+    margin-left: 943px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .fundo_level1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin-left: 1040px;
+    margin-top: -100px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .level1{
+    position: absolute;
+    font-size: 16px;
+    color: #eeeeee;
+    margin-top: 16px;
+    margin-left: 11px;
+  }
+  
+  .icon2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 782px;
+    margin-top: -90px;
+  }
+  
+  .nome_user2{
+    margin-top: 45px;
+    margin-left: 750px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .fundo_level2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin-left: 850px;
+    margin-top: -102px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .level2{
+    position: absolute;
+    font-size: 16px;
+    color: #eeeeee;
+    margin-top: 16px;
+    margin-left: 11px;
+  }
+  
+  .icon3{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 1170px;
+    margin-top: -111px;
+  }
+  
+  .nome_user3{
+    margin-top: 23px;
+    margin-left: 1147px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .fundo_level3{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin-left: 1240px;
+    margin-top: -106px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .level3{
+    position: absolute;
+    font-size: 16px;
+    color: #eeeeee;
+    margin-top: 16px;
+    margin-left: 11px;
+  }
+  
+  .lvl1{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    margin-left: 825px;
+    margin-top: 0px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .num1{
+    position: absolute;
+    font-size: 22px;
+    color: #eeeeee;
+    margin-top: 6px;
+    margin-left: 18px;
+  }
+  
+  .icone1{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-left: 960px;
+    margin-top: 756px;
+  }
+  
+  .name_user1{
+    margin-top: 154px;
+    margin-left: 1060px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .lvl2{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    left: 865px;
+    top: 900px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .num2{
+    position: absolute;
+    font-size: 22px;
+    color: #eeeeee;
+    margin-top: 6px;
+    margin-left: 18px;
+  }
+  
+  .icone2{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 960px;
+    top: 878px;
+  }
+  
+  .name_user2{
+    margin-top: 92px;
+    margin-left: 1060px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .lvl3{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    left: 865px;
+    top: 1020px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .num3{
+    position: absolute;
+    font-size: 22px;
+    color: #eeeeee;
+    margin-top: 6px;
+    margin-left: 18px;
+  }
+  
+  .icone3{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 960px;
+    top: 1000px;
+  }
+  
+  .name_user3{
+    margin-top: 92px;
+    margin-left: 1060px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .lvl4{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    left: 865px;
+    top: 1140px;
+    border-radius: 40px;
+    background: #d00000;
+  }
+  
+  .num4{
+    position: absolute;
+    font-size: 22px;
+    color: #eeeeee;
+    margin-top: 6px;
+    margin-left: 18px;
+  }
+  
+  .icone4{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 960px;
+    top: 1120px;
+  }
+  
+  .name_user4{
+    margin-top: 92px;
+    margin-left: 1060px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #eeeeee;
+  }
+  
+  .link_nome{
+    text-decoration: transparent;
+  }

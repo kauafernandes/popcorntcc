@@ -1,0 +1,240 @@
+body {
+    position: relative;
+    background: #2e2d2d;
+}
+
+.pesquisa {
+    height: 50px;
+    width: 700px;
+    border: 3px solid #000000;
+    border-radius: 30px;
+    margin-top: 60px;
+    margin-left: 710px;
+    font-size: 35px;
+    font-family: 'economica';
+    padding: 15px;
+    position: absolute;
+    padding-inline-end: 55px;
+}
+  
+.pesquisabotao {
+    width: 50px;
+    height: 40px;
+    margin-top: 65px;
+    margin-left: 1350px;
+    position: absolute;
+    cursor: pointer;
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 30px;
+}
+  
+.icon_user1{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 895px;
+    top: 380px;
+    cursor: pointer;
+}
+  
+.nome_user1{
+    position: absolute;
+    left: 1005px;
+    top: 370px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status1{
+    position: absolute;
+    width: 380px;
+    height: 35px;
+    left: 1009px;  
+    top: 410px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+  
+.icon_user2{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 895px;
+    top: 500px;
+    cursor: pointer;
+}
+  
+.nome_user2{
+    position: absolute;
+    left: 1005px;
+    top: 490px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status2{
+    position: absolute;
+    width: 380px;
+    height: 35px;
+    left: 1009px;
+    top: 530px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+  
+.icon_user3{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 895px;
+    top: 620px;
+    cursor: pointer;
+}
+  
+.nome_user3{
+    position: absolute;
+    left: 1005px;
+    top: 610px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status3{
+    position: absolute;
+    width: 380px;
+    height: 35px;
+    left: 1009px;
+    top: 650px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+  
+.icon_user4{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 895px;
+    top: 740px;
+    cursor: pointer;
+}
+  
+.nome_user4{
+    position: absolute;
+    left: 1005px;
+    top: 730px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status4{
+    position: absolute;
+    width: 380px;
+    height: 35px;
+    left: 1009px;
+    top: 770px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+  
+.icon_user5{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 895px;
+    top: 860px;
+    cursor: pointer;
+}
+  
+.nome_user5{
+    position: absolute;
+    left: 1005px;
+    top: 850px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status5{
+    position: absolute;
+    width: 380px;
+    height: 35px;
+    left: 1009px;
+    top: 890px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
+  
+.icon_user6{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 895px;
+    top: 980px;
+    cursor: pointer;
+}
+  
+.nome_user6{
+    position: absolute;
+    left: 1005px;
+    top: 970px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    color: #eeeeee;
+}
+  
+.status6{
+    position: absolute;
+    width: 380px;
+    height: 35px;
+    left: 1009px;
+    top: 1010px;
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    color: #eeeeee;
+}
