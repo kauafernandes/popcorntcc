@@ -30,7 +30,7 @@ export const Home = () => {
       <Menu/>
       <div className="container">
     <div className='Destaques'>
-    <h1>Destaques do momentos</h1>
+    <h1>Destaques do momento</h1>
     </div>
 
     <div className="movies-container">
