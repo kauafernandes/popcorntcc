@@ -2,6 +2,7 @@ import React from 'react'
 import './minhasavaliacoes.css';
 import Header from '../../header/Header'
 import Menu from '../../menu/Menu';
+import { Link } from 'react-router-dom';
 
 export const Minhasavaliacoes = () => {
   return (
@@ -11,7 +12,7 @@ export const Minhasavaliacoes = () => {
         
         <div className='conteudo'>
         <div>
-            <a href="#"> <img className="seta_voltar" src="https://i.imgur.com/0XdoBhg.png"/> </a>
+        <Link to="/"> <img className="seta_voltar" src="https://i.imgur.com/0XdoBhg.png"/> </Link>
             <h1 className="titulo">Minhas Avaliações</h1>
         </div>
           

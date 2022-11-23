@@ -1,17 +1,18 @@
 import React from 'react';
 import './Chat.css';
-
+import { Link } from 'react-router-dom'
+ 
 function Chat () {
   return (
     <div>
       <div className="header"> 
-        <h1 className="usu">Usuário</h1>  
-        <a href="../chat_historico/historico_chat.html" className="voltar"> <img src="https://i.imgur.com/0XdoBhg.png"/> </a>
-        <a href="#" className="pontos"> <img src="https://i.imgur.com/hSTiRsm.png"/> </a>
+        <Link to="/"> <img src="https://i.imgur.com/0XdoBhg.png" className="voltar"/> </Link>
         <img src="https://i.imgur.com/FVj2MKo.png" className="foto_usu"/>
-        <img src="https://i.imgur.com/fepGYLQ.png" className="phone"/>
+        <h1 className="usu">Usuário</h1>   
         <h3 className="online">online</h3>
-      </div>
+        <a href="#" className="pontos"> <img src="https://i.imgur.com/hSTiRsm.png"/> </a>
+        <img src="https://i.imgur.com/fepGYLQ.png" className="phone"/>
+    </div>
 
       <div className="caixa_data"> <h1 className="txt_data">ontem</h1> </div>
 
